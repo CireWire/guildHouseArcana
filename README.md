@@ -7,7 +7,7 @@ This is a text-based resource game created using Python. In this game, the playe
 To play the game, simply download the guildHouseArcana.py file and run it in your Python environment.
 
 ```
-$ python game.py
+$ python guildHouseArcana.py
 ```
 
 ## How to Play
